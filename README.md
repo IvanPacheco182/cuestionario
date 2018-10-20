@@ -11,9 +11,9 @@ Al finalizar, se mostrará un resumen con las respustas y un botón para enviar 
 
 A continuación, se muestran las clases del proyecto así como capturas del resultado como evidencia. 
 
-![Evidencia1](https://github.com/IvanPacheco182/cuestionario/evidencia/img1.png )
-![Evidencia2](https://github.com/IvanPacheco182/cuestionario/evidencia/img2.png )
-![Evidencia3](https://github.com/IvanPacheco182/cuestionario/evidencia/img3.png )
+![Evidencia1](https://github.com/IvanPacheco182/cuestionario/tree/master/evidencia/img1.png )
+![Evidencia2](https://github.com/IvanPacheco182/cuestionario/tree/master/evidencia/img2.png )
+![Evidencia3](https://github.com/IvanPacheco182/cuestionario/tree/master/evidencia/img3.png )
 
 ## Archivo XML activity_main
 ~~~
