@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Encuesta de CCNA 1</string>
+    <string name="game_theme">Cuestionario sobre conceptos básicos de redes </string>
+    <string name="score_zero">Correctas: 0</string>
+    <string name="help">Ayuda</string>
+    <string name="your_name_text">Ingresa tu nombre: </string>
+    <string name="player_name_hint">Nombre</string>
+    <string name="your_answer_hint">Tu Respuesta</string>
+    <string name="start_quiz">Comenzar Encuesta</string>
+
+
+    <string name="edit_text_number_question_one">¿Cuántos bits hay en una dirección ipv4?</string>
+    <string name="edit_text_number_answer_one">32</string>
+    <string name="edit_text_number_question_two">¿Cuál es el equivalente decimal del número hexadecimal 0x3f? </string>
+    <string name="edit_text_number_answer_two">63</string>
+    <string name="edit_text_number_question_three">¿Cuántos bits tiene un byte?</string>
+    <string name="edit_text_number_answer_three">8</string>
+    <string name="edit_text_number_question_four">¿A cuántos bytes equivale 16 bits?</string>
+    <string name="edit_text_number_answer_four">2</string>
+    <string name="edit_text_number_question_five">¿Cuántos bits hay en una dirección ipv6?</string>
+    <string name="edit_text_number_answer_five">128</string>
+    <string name="edit_text_number_question_six">¿Cuántos octetos tiene una dirección ipv4?</string>
+    <string name="edit_text_number_answer_six">4</string>
+
+    <string name="edit_text_text_question">¿Cómo se llama el dispositivo que se muestra en pantalla?</string>
+    <string name="edit_text_text_answer_one">conmutador</string>
+    <string name="edit_text_text_answer_two">firewall</string>
+    <string name="edit_text_text_answer_three">hub</string>
+    <string name="edit_text_text_answer_four">portatil</string>
+    <string name="edit_text_text_answer_five">router</string>
+    <string name="edit_text_text_answer_six">servidor</string>
+
+    <string name="check_box_question_one">Comando para ver la configuracion ip en una computadora windows</string>
+    <string name="check_box_question_two">3 características de los switches en la capa de acceso:</string>
+    <string name="check_box_question_three">La información de la vlan de rango extendido se almacena en el archivo:</string>
+    <string name="check_box_question_four">seleccione las caracteristicas básicas para configurar spanning-tree</string>
+    <string name="check_box_question_five">¿Cuál de las siguientes interfaces es la SVI predeterminada en un switch cisco?</string>
+
+    <string name="check_box_false">false</string>
+    <string name="check_box_true">true</string>
+
+    <string name="check_box_answer_one_two">ip info</string>
+    <string name="check_box_answer_one_four">show running config</string>
+    <string name="check_box_answer_one_five">ip config</string>
+    <string name="check_box_answer_one_eight">VLAN one</string>
+    <string name="check_box_answer_two_zero">VLAN 99</string>
+    <string name="check_box_answer_two_one">enlace troncal</string>
+    <string name="check_box_answer_two_two">VLAN 0</string>
+    <string name="check_box_answer_two_three">VLAN 1</string>
+    <string name="check_box_answer_two_six">Ethernetchannel</string>
+    <string name="check_box_answer_three_zero">Velocidad de reenvío</string>
+    <string name="check_box_answer_three_one">Alimentación por ethernet</string>
+    <string name="check_box_answer_three_two">Densidad de puertos</string>
+    <string name="check_box_answer_four_zero">sumary</string>
+    <string name="check_box_answer_four_one">contraseña</string>
+    <string name="check_box_answer_four_two">dominio</string>
+    <string name="check_box_answer_four_three">modo</string>
+    <string name="check_box_answer_four_four">running config</string>
+    <string name="check_box_answer_four_five">info VLAN</string>
+    <string name="check_box_answer_five_zero">ip brief</string>
+
+
+    <string name="radio_button_question_one">Tipo De Vlan Se Identifica Mediante Una Id De Vlan Entre 1006 Y 4094</string>
+    <string name="radio_button_question_two">Protocolo de routing sin Clase que admite VLSM Y Cidr</string>
+    <string name="radio_button_question_three">Protocolo diseñado por la organización internacional de normalización (ISO)?</string>
+    <string name="radio_button_question_four">¿Cuál es la extensión de los programas de cisco?</string>
+    <string name="radio_button_question_five">¿Con etherchannel, qué tipo de conexión lógica usan las interfaces de múltiples links físicos?</string>
+
+    <string name="radio_button_false">false</string>
+    <string name="radio_button_true">true</string>
+
+    <string name="radio_button_answer_one_one">transparente</string>
+    <string name="radio_button_answer_one_two">nativa</string>
+    <string name="radio_button_answer_one_three">eliminada</string>
+    <string name="radio_button_answer_one_four">Troncal</string>
+    <string name="radio_button_answer_one_five">extendida</string>
+    <string name="radio_button_answer_two_one">RIPv2</string>
+    <string name="radio_button_answer_two_two">EIGRP</string>
+    <string name="radio_button_answer_two_three">OSPF</string>
+    <string name="radio_button_answer_two_four">RIPv1</string>
+    <string name="radio_button_answer_two_five">BGP</string>
+    <string name="radio_button_answer_three_one">Sistema intermedio a sistema intermedio (IS-IS)</string>
+    <string name="radio_button_answer_three_two">RIP</string>
+    <string name="radio_button_answer_three_three">EIGRP</string>
+    <string name="radio_button_answer_three_four">RIPv2</string>
+    <string name="radio_button_answer_three_five">OSPF</string>
+    <string name="radio_button_answer_four_one">.net</string>
+    <string name="radio_button_answer_four_two">.cad</string>
+    <string name="radio_button_answer_four_three">.apk</string>
+    <string name="radio_button_answer_four_four">.pkt</string>
+    <string name="radio_button_answer_four_five">.cis</string>
+    <string name="radio_button_answer_five_one">interface range</string>
+    <string name="radio_button_answer_five_two">interfaz VLAN</string>
+    <string name="radio_button_answer_five_three">Canal de puertos</string>
+    <string name="radio_button_answer_five_four">Loopback</string>
+    <string name="radio_button_answer_five_five">deseable</string>
+
+    <string name="player_name">Encuestado</string>
+    <string name="submit_answer">Enviar Respuesta</string>
+    <string name="quiz_level">"Pregunta: Numero "</string>
+    <string name="restart">Enviar respuestas al correo</string>
+    <string name="submit_next_button2">Enciar Correo</string>
+    <string name="next_quiz">Siguiente Pregunta</string>
+    <string name="summary">Finalizar</string>
+    <string name="score_text">"Correctas : "</string>
+
+    <string name="quiz_three_hint">Marque uno o más respuestas</string>
+    <string name="quiz_four_hint">Marque solo una respuesta</string>
+    <string name="end_thank_first">"El cuestionario ha finalizado: "</string>
+    <string name="end_thank_second">"\nRespuestas correctas : "</string>
+    <string name="end_thank_third">" \nRevisa Las Respuestas."</string>
+    <string name="wrong_answer">"Error, la Respuesta Correcta es: "</string>
+    <string name="wright_answer">"Tu respuesta es correcta.</string>
+    <string name="score">Correctas: </string>
+
+    <string name="score_value">Correctas: </string>
+    <string name="player_name_istate">Nombre Del Encuestado</string>
+    <string name="score_istate">Puntaje</string>
+    <string name="quiz_level_istate">quizLevel</string>
+    <string name="quiz_rule_istate">quizRule</string>
+    <string name="submit_next_button_istate">submitNextButton</string>
+    <string name="quiz_one_question_istate">quizOneQuestion</string>
+    <string name="quiz_one_answer_istate">quizOneAnswer</string>
+    <string name="actual_view_istate">actualView</string>
+    <string name="edit_text_number_random_istate">editTextNumberRandom</string>
+    <string name="edit_text_text_random_istate">editTextTextRandom</string>
+    <string name="check_box_random_istate">checkBoxRandom</string>
+    <string name="radio_button_random_istate">radioButtonRandom</string>
+
+</resources>
